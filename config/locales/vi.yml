@@ -1,6 +1,7 @@
 vi:
   layouts:
     header:
+<<<<<<< HEAD
       help: "Tro giup"
       login: "Dang nhap" 
     application:
@@ -23,3 +24,30 @@ vi:
       help3: "Hello im helper"
   base:
     title: "PAT vi"
+=======
+      help: "Trợ giúp"
+      login: "Đăng nhập" 
+      sampleapp: "App PAT"
+    application:
+      title: "VI "
+      home: "Trang chủ"
+      vi: "Tiếng Việt"
+      en: "English"
+  hello: "Xin chào"
+  static_pages:
+    home:
+      signup: "Đăng ký"
+      title: "Trang chủ"
+      home: "Trang chu"
+      welcome: "Chào mừng đến với Phạm Anh Tài APP"
+      intro: "Đây là đương link trang web"
+      ruby: "Hướng dẫn Ruby on Rails"
+    help:
+      help: "Trợ giúp "
+      help2: "Trang giúp đỡ"
+      help3: "Xin chào tôi là helper"
+  base:
+    title: "PAT vi"
+    help:
+      help: "Trợ giúp"
+>>>>>>> 29b15f0... Chapter 4: Rails-flavored Ruby

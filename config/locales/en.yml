@@ -1,4 +1,5 @@
 en:
+<<<<<<< HEAD
   layouts:
     header:
       help: "Help"
@@ -10,14 +11,41 @@ en:
   hello: "Hello world"
   static_pages:
     home:
+=======
+<<<<<<< HEAD
+  hello: "Hello world"
+=======
+  layouts:
+    header:
+      help: "Help"
+      login: "Login" 
+      sampleapp: "Sample App"
+    application:
+      title: "ENG"
+      vi: "Tieng Viet"
+      en: "English"
+  hello: "Hello world"
+  static_pages:
+    home:
+      signup: "Sign up now"
+>>>>>>> 29b15f0... Chapter 4: Rails-flavored Ruby
       home: "Homepage"
       welcome: "Welcome to Pham Anh Tai APP"
       intro: "This is the home pages for the"
       ruby: "Ruby on Rails Tutorial"
+<<<<<<< HEAD
       signup: "Signup now"
+=======
+>>>>>>> 29b15f0... Chapter 4: Rails-flavored Ruby
     help:
       help: "Help"
       help2: "Help page"
       help3: "Hello im helper"
   base:
     title: "PAT en"
+<<<<<<< HEAD
+=======
+    help:
+      help: "Help"
+>>>>>>> 8c9e28d... Chapter 4: Rails-flavored Ruby
+>>>>>>> 29b15f0... Chapter 4: Rails-flavored Ruby
