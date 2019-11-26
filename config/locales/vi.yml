@@ -1,0 +1,25 @@
+vi:
+  layouts:
+    header:
+      help: "Tro giup"
+      login: "Dang nhap" 
+    application:
+      title: "VI "
+      home: "Trang chu"
+      vi: "Tieng Viet"
+      en: "English"
+  hello: "Xin chao"
+  static_pages:
+    home:
+      title: "Trang chu"
+      home: "Trang chu"
+      welcome: "Chao mung den voi Pham Anh Tai APP"
+      intro: "Day la trang web"
+      ruby: "Huong dan Ruby on Rails"
+      signup: "Dang ky ngay"
+    help:
+      help: "Tro giup"
+      help2: "Trang giup do"
+      help3: "Hello im helper"
+  base:
+    title: "PAT vi"
