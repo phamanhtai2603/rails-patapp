@@ -1,0 +1,9 @@
+vi:
+  layouts:
+    header:
+      home: "Trang chu"    
+  hello: "Xin chao"
+  static_pages:
+    home:
+      welcome: "Chao mung den voi Pham Anh Tai APP"
+      intro: "Day la trang web"

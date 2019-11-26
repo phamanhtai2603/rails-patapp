@@ -30,4 +30,11 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  layouts:
+    header:
+      home: "Home"    
   hello: "Hello world"
+  static_pages:
+    home:
+      welcome: "Welcome to Pham Anh Tai APP"
+      intro: "This is the home pages for the"
