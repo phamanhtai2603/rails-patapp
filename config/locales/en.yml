@@ -38,3 +38,14 @@ en:
     home:
       welcome: "Welcome to Pham Anh Tai APP"
       intro: "This is the home pages for the"
+      home: "Home"
+    help:
+      help: "Help"
+    contact:
+      contact: "Contact"
+    about:
+      about: "About"  
+  users:
+    new:
+      new: "Sign up"
+        

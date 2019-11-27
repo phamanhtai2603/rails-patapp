@@ -7,3 +7,13 @@ vi:
     home:
       welcome: "Chao mung den voi Pham Anh Tai APP"
       intro: "Day la trang web"
+      home: "Trang chu"
+    help:
+      help: "Tro giup"
+    contact:
+      contact: "Lien he"
+    about:
+      about: "Chi tiet"  
+  users:
+    new:
+      new: "Dang ky"
