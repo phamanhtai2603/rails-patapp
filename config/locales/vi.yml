@@ -1,17 +1,28 @@
 vi:
   layouts:
+    footer:
+      the: "Hướng "
+      ruby: "Ruby on Rails Tutorial"
+      by: "tác giả"
+      author: "Michael Hartl"
     header:
       help: "Trợ giúp"
-      login: "Đăng nhập" 
-      sampleapp: "App PAT"
+      login: "Đăng nhập"
+      sampleapp: "Sample App"
     application:
       title: "VI "
       home: "Trang chủ"
-      vi: "Tiếng Việt"
+      vi: "Tieng Viet"
       en: "English"
+      home: "Trang chủ" 
+      help: "Trợ giúp"
+      about: "Chi tiết"
+      contact: "Liên hệ"
+      login: "Đăng nhập"
   hello: "Xin chào"
   static_pages:
     home:
+      logo: "Logo"
       signup: "Đăng ký"
       title: "Trang chủ"
       home: "Trang chu"
@@ -27,5 +38,14 @@ vi:
       about1: "Chi tiết"
   base:
     title: "PAT vi"
+    contact:    
+      contact: "Lien he"
+  base:
+    title: "PAT vi"
     help:
       help: "Trợ giúp"
+  users:
+    new:
+      new: "Đăng ký"
+      text0: "Người dùng"
+      text1: "Trang người dùng"
