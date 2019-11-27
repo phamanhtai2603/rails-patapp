@@ -10,7 +10,11 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+<<<<<<< HEAD
 ActiveRecord::Schema.define(version: 2019_12_04_040904) do
+=======
+ActiveRecord::Schema.define(version: 2019_11_27_034954) do
+>>>>>>> 6075bef... Chapter 5: Filling the layout
 
   create_table "users", force: :cascade do |t|
     t.string "name"
@@ -18,7 +22,10 @@ ActiveRecord::Schema.define(version: 2019_12_04_040904) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "password_digest"
+<<<<<<< HEAD
     t.index ["email"], name: "index_users_on_email", unique: true
+=======
+>>>>>>> 6075bef... Chapter 5: Filling the layout
   end
 
 end

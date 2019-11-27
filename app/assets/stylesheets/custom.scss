@@ -42,15 +42,39 @@ p {
 
 /* header */
 #logo {
-  float: left;
-  margin-right: 10px;
-  font-size: 1.7em;
-  color: $fff;
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  padding-top: 9px;
-  font-weight: bold;
+	float: left;
+	margin-right: 10px;
+	font-size: 1.7em;
+	color: $fff;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	padding-top: 9px;
+	font-weight: bold;
+	&:hover {
+	    color: $fff;
+	    text-decoration: none;
+    }
+}
+
+$light-gray: #777;
+
+#cat{
+  display: none;
+}
+
+/* footer */
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: $light-gray;
+  a {
+  	color: #555;
+  }
+
   &:hover {
+<<<<<<< HEAD
       color: $fff;
       text-decoration: none;
     }
@@ -73,6 +97,9 @@ footer {
 
   &:hover {
     color: $two;
+=======
+    color: #222;
+>>>>>>> 6075bef... Chapter 5: Filling the layout
   }
 
   small {

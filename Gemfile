@@ -16,6 +16,7 @@ gem "sass-rails", "~> 5.0"
 gem "jbuilder", "~> 2.5"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
+<<<<<<< HEAD
 gem "rails-controller-testing"
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
@@ -23,6 +24,13 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :development, :test do
   gem "rubocop", "~> 0.54.0", require: false
 end
+=======
+group :development, :test do
+  gem "rubocop", "~> 0.54.0", require: false
+end
+gem "bcrypt", "3.1.11"
+gem "rails-controller-testing"
+>>>>>>> 6075bef... Chapter 5: Filling the layout
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
