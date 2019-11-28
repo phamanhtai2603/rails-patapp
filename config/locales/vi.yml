@@ -1,7 +1,19 @@
 vi:
   layouts:
+    footer:
+      the: "Huong dan"
+      ruby: "Ruby on Rails Tutorial"
+      by: "tac gia"
+      author: "Michael Hartl"
+    application:
+      title: "VI "
+      home: "Trang chu"
     header:
-      home: "Trang chu"    
+      home: "Trang chu" 
+      help: "Tro giup"
+      about: "Chi tiet"
+      contact: "Lien he"
+      login: "Dang nhap"
   hello: "Xin chao"
   static_pages:
     home:
@@ -17,3 +29,5 @@ vi:
   users:
     new:
       new: "Dang ky"
+      text0: "Nguoi dung"
+      text1: "Trang nguoi dung"

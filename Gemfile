@@ -15,6 +15,7 @@ gem "coffee-rails", "~> 4.2"
 gem "jbuilder", "~> 2.5"
 gem "bcrypt", "3.1.11"
 gem "bootstrap-sass", "3.3.7"
+gem "config"
 gem "rails-i18n"
 gem "bootsnap", ">= 1.1.0", require: false
 gem "rails-controller-testing"
