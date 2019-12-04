@@ -1,25 +1,31 @@
 vi:
   layouts:
     header:
-      help: "Tro giup"
-      login: "Dang nhap" 
+      help: "Trợ giúp"
+      login: "Đăng nhập" 
+      sampleapp: "App PAT"
     application:
       title: "VI "
-      home: "Trang chu"
-      vi: "Tieng Viet"
+      home: "Trang chủ"
+      vi: "Tiếng Việt"
       en: "English"
-  hello: "Xin chao"
+  hello: "Xin chào"
   static_pages:
     home:
-      title: "Trang chu"
+      signup: "Đăng ký"
+      title: "Trang chủ"
       home: "Trang chu"
-      welcome: "Chao mung den voi Pham Anh Tai APP"
-      intro: "Day la trang web"
-      ruby: "Huong dan Ruby on Rails"
-      signup: "Dang ky ngay"
+      welcome: "Chào mừng đến với Phạm Anh Tài APP"
+      intro: "Đây là đương link trang web"
+      ruby: "Hướng dẫn Ruby on Rails"
     help:
-      help: "Tro giup"
-      help2: "Trang giup do"
-      help3: "Hello im helper"
+      help: "Trợ giúp "
+      help2: "Trang giúp đỡ"
+      help3: "Xin chào tôi là helper"
+    about:
+      about: "Chi tiết"
+      about1: "Chi tiết"
   base:
     title: "PAT vi"
+    help:
+      help: "Trợ giúp"

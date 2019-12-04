@@ -3,21 +3,29 @@ en:
     header:
       help: "Help"
       login: "Login" 
+      sampleapp: "Sample App"
     application:
       title: "ENG"
+      home: "Homepages"
       vi: "Tieng Viet"
       en: "English"
   hello: "Hello world"
   static_pages:
     home:
+      signup: "Sign up now"
+      title: "Homepage"
       home: "Homepage"
       welcome: "Welcome to Pham Anh Tai APP"
       intro: "This is the home pages for the"
       ruby: "Ruby on Rails Tutorial"
-      signup: "Signup now"
     help:
       help: "Help"
       help2: "Help page"
       help3: "Hello im helper"
+    about:
+      about: "About"
+      about1: "About"
   base:
     title: "PAT en"
+    help:
+      help: "Help"
