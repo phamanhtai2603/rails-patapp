@@ -7,7 +7,7 @@ en:
       author: "Michael Hartl"
     header:
       help: "Help"
-      login: "Login" 
+      login: "Login"
       sampleapp: "Sample App"
     application:
       title: "ENG"
@@ -36,16 +36,16 @@ en:
     about:
       about: "About"
       about1: "About"
+    contact:
+      contact: "Contact"
   base:
     title: "PAT vi"
     contact:
-      contact: "Contact" 
+      contact: "Contact"
   base:
     title: "PAT en"
     help:
       help: "Help"
   users:
     new:
-      new: "Sign up"
-      text0: "User"
-      text1: "User page"
+      signup: "Sign up"
