@@ -1,11 +1,10 @@
 require 'test_helper'
 
 class UsersControllerTest < ActionDispatch::IntegrationTest
-
   test "should get new" do
-    get signup_path
+    get users_path
     assert_response :success
-    assert_select "title", "Ruby on Rails Tutorial Sample App"
+		assert_select "title", "Users | Ruby on Rails Tutorial Sample App"
   end
 
 end

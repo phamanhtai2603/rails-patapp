@@ -7,6 +7,8 @@ vi:
       author: "Michael Hartl"
     header:
       help: "Trợ giúp"
+      contact: "Liên hệ"
+      about: "Chi tiết"
       login: "Đăng nhập"
       sampleapp: "Sample App"
     application:
@@ -36,6 +38,8 @@ vi:
     about:
       about: "Chi tiết"
       about1: "Chi tiết"
+    contact:
+      contact: "Liên hệ"
   base:
     title: "PAT vi"
     contact:    
@@ -47,5 +51,9 @@ vi:
   users:
     new:
       new: "Đăng ký"
-      text0: "Người dùng"
-      text1: "Trang người dùng"
+      create: "Đăng ký mới"
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      confirm: "Xác nhận lại mật khẩu"
+      signup: "Đăng ký"

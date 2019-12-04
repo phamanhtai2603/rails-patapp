@@ -36,6 +36,8 @@ en:
     about:
       about: "About"
       about1: "About"
+    contact:
+      contact: "Contact"
   base:
     title: "PAT vi"
     contact:
@@ -47,5 +49,9 @@ en:
   users:
     new:
       new: "Sign up"
-      text0: "User"
-      text1: "User page"
+      create: "Sign up new"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      confirm: "Confirm password"
+      signup: "Sign up"
