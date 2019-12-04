@@ -48,4 +48,10 @@ en:
       help: "Help"
   users:
     new:
+      new: "Sign up"
+      create: "Sign up new"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      confirm: "Confirm password"
       signup: "Sign up"
