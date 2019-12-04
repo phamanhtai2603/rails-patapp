@@ -14,7 +14,7 @@ vi:
       home: "Trang chủ"
       vi: "Tieng Viet"
       en: "English"
-      home: "Trang chủ" 
+      home: "Trang chủ"
       help: "Trợ giúp"
       about: "Chi tiết"
       contact: "Liên hệ"
@@ -36,9 +36,11 @@ vi:
     about:
       about: "Chi tiết"
       about1: "Chi tiết"
+    contact:
+      contact: "Liên hệ"
   base:
     title: "PAT vi"
-    contact:    
+    contact:
       contact: "Lien he"
   base:
     title: "PAT vi"
@@ -46,6 +48,4 @@ vi:
       help: "Trợ giúp"
   users:
     new:
-      new: "Đăng ký"
-      text0: "Người dùng"
-      text1: "Trang người dùng"
+      signup: "Đăng ký"
