@@ -6,9 +6,15 @@ en:
       by: "By"
       author: "Michael Hartl"
     header:
+      home: "Home"
       help: "Help"
-      login: "Login" 
+      login: "Login"
       sampleapp: "Sample App"
+      users: "Users"
+      setting: "Setting"
+      logout: "Log out"
+      profile: "Profile"
+      account: "Accout"
     application:
       title: "ENG"
       home: "Homepages"
@@ -41,7 +47,7 @@ en:
   base:
     title: "PAT vi"
     contact:
-      contact: "Contact" 
+      contact: "Contact"
   base:
     title: "PAT en"
     help:
@@ -55,3 +61,10 @@ en:
       password: "Password"
       confirm: "Confirm password"
       signup: "Sign up"
+  sessions:
+    new:
+      login: "Login"
+      signup: "Sign up now"
+      email: "Email"
+      password: "Password"
+      newuser: "New user?"

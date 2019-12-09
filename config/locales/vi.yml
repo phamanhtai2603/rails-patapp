@@ -6,17 +6,23 @@ vi:
       by: "tác giả"
       author: "Michael Hartl"
     header:
+      home: "Trang chủ"
       help: "Trợ giúp"
       contact: "Liên hệ"
       about: "Chi tiết"
       login: "Đăng nhập"
       sampleapp: "Sample App"
+      users: "Người dùng"
+      setting: "Cài đặt"
+      logout: "Đăng xuất"
+      profile: "Hồ sơ"
+      account: "Tài khoản"
     application:
       title: "VI "
       home: "Trang chủ"
       vi: "Tieng Viet"
       en: "English"
-      home: "Trang chủ" 
+      home: "Trang chủ"
       help: "Trợ giúp"
       about: "Chi tiết"
       contact: "Liên hệ"
@@ -42,7 +48,7 @@ vi:
       contact: "Liên hệ"
   base:
     title: "PAT vi"
-    contact:    
+    contact:
       contact: "Lien he"
   base:
     title: "PAT vi"
@@ -57,3 +63,10 @@ vi:
       password: "Mật khẩu"
       confirm: "Xác nhận lại mật khẩu"
       signup: "Đăng ký"
+  sessions:
+    new:
+      login: "Đăng nhập"
+      email: "Email"
+      password: "Mật khẩu"
+      signup: "Đăng ký ngay"
+      newuser: "Chưa có tài khoản?"
