@@ -8,6 +8,8 @@ en:
     header:
       home: "Home"
       help: "Help"
+      contact: "Contact"
+      about: "About"
       login: "Login"
       sampleapp: "Sample App"
       users: "Users"
@@ -61,6 +63,26 @@ en:
       password: "Password"
       confirm: "Confirm password"
       signup: "Sign up"
+    edit:
+      edit: "Edit "
+      edit2: "Edit profile"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      confirm: "Confirm password"
+      signup: "Sign up"
+      save: "Save"
+      change: "Change"
+    index:
+      index: "All users"
+    welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+    accountactivation: "Account activation"
+    createsuccess: "Welcome to PAT.."
+    updatesuccess: "Updated profile successful!"
+    pleaselogin: "Please log in to access!"
+    deleted: "Deleted "
+    delete: "Delete"
+    delete_2: "Sure?"
   sessions:
     new:
       login: "Login"
@@ -69,3 +91,8 @@ en:
       password: "Password"
       remember: "Remember me?"
       newuser: "New user?"
+  user_mailer:
+    account_activation:
+      activation: "Activation"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      hi: "Hi"
