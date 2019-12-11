@@ -6,6 +6,7 @@ ruby "2.5.1"
 gem "bootstrap-sass", "3.3.7"
 gem "bootsnap", ">= 1.1.0", require: false
 gem "bcrypt", "3.1.11"
+gem "bootstrap-will_paginate", "1.0.0"
 gem "config"
 gem "coffee-rails", "~> 4.2"
 gem "puma", "~> 3.11"
@@ -18,6 +19,8 @@ gem "jquery-rails"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
 gem "rails-controller-testing"
+gem "faker", "1.7.3"
+gem "will_paginate", "3.1.7"
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 

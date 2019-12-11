@@ -63,6 +63,24 @@ vi:
       password: "Mật khẩu"
       confirm: "Xác nhận lại mật khẩu"
       signup: "Đăng ký"
+    edit:
+      edit: "Chỉnh sửa "
+      edit2: "Chỉnh sửa thông tin cá nhân"
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      confirm: "Xác nhận lại mật khẩu"
+      signup: "Tạo mới"
+      save: "Lưu"
+      change: "Thay đổi"
+    index:
+      index: "Danh sách tài khoản"
+    createsuccess: "Chào mừng đến với PAT.."
+    updatesuccess: "Chỉnh sửa thành công!"
+    pleaselogin: "Cần đăng nhập trước"
+    deleted: "Xóa thành công "
+    delete: "Xóa"
+    delete_2: "Chắc chắn xóa?"
   sessions:
     new:
       login: "Đăng nhập"
