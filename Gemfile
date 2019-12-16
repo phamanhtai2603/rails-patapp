@@ -8,7 +8,7 @@ gem "bootsnap", ">= 1.1.0", require: false
 gem "bcrypt", "3.1.11"
 gem "config"
 gem "coffee-rails", "~> 4.2"
-gem "puma", "~> 3.11"
+gem "puma", "~> 3.12"
 gem "rails", "~> 5.2.3"
 gem "rails-i18n"
 gem "sqlite3"
