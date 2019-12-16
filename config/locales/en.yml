@@ -1,5 +1,10 @@
 en:
   layouts:
+    footer:
+      the: "The"
+      ruby: "Ruby on Rails Tutorial"
+      by: "By"
+      author: "Michael Hartl"
     header:
       help: "Help"
       login: "Login" 
@@ -9,9 +14,15 @@ en:
       home: "Homepages"
       vi: "Tieng Viet"
       en: "English"
+      home: "Home"
+      help: "Help"
+      about: "About"
+      contact: "Contact"
+      login: "Login"
   hello: "Hello world"
   static_pages:
     home:
+      logo: "Logo"
       signup: "Sign up now"
       title: "Homepage"
       home: "Homepage"
@@ -26,6 +37,15 @@ en:
       about: "About"
       about1: "About"
   base:
+    title: "PAT vi"
+    contact:
+      contact: "Contact" 
+  base:
     title: "PAT en"
     help:
       help: "Help"
+  users:
+    new:
+      new: "Sign up"
+      text0: "User"
+      text1: "User page"
