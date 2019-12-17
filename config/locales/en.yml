@@ -28,6 +28,11 @@ en:
       contact: "Contact"
       login: "Login"
   hello: "Hello world"
+  password_resets:
+    new:
+      pwdreset: "Reset password"
+    edit:
+      pwdreset: "Reset password"
   static_pages:
     home:
       logo: "Logo"
@@ -75,11 +80,18 @@ en:
       change: "Change"
     index:
       index: "All users"
-    welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+    mailforgot: "Check email!"
+    mailforgot_wrong: "Wrong email!"
+    pleasecheckactive: "Please check your email to activate your account."
+    accnotactived: "Account not activated. Check your email for the activation link."
+    activated: "Account activated!"
+    activatedfail: "Invalid activation link"
     accountactivation: "Account activation"
     createsuccess: "Welcome to PAT.."
     updatesuccess: "Updated profile successful!"
     pleaselogin: "Please log in to access!"
+    pleaselogout: "Need log out first"
     deleted: "Deleted "
     delete: "Delete"
     delete_2: "Sure?"
@@ -89,6 +101,7 @@ en:
       signup: "Sign up now"
       email: "Email"
       password: "Password"
+      fgpassword: "Forgot password?"
       remember: "Remember me?"
       newuser: "New user?"
   user_mailer:
@@ -96,3 +109,8 @@ en:
       activation: "Activation"
       welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
       hi: "Hi"
+    password_reset:
+      head: "Reset your password"
+      p1: "To reset your password click the link below:"
+      p2: "Reset password"
+      p3: "This link will expire in two hours."

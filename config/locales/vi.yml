@@ -28,6 +28,11 @@ vi:
       contact: "Liên hệ"
       login: "Đăng nhập"
   hello: "Xin chào"
+  password_resets:
+    edit:
+      pwdreset: "Đặt lại mật khẩu"
+    new:
+      pwdreset: "Đặt lại mật khẩu"
   static_pages:
     home:
       logo: "Logo"
@@ -76,10 +81,17 @@ vi:
     index:
       index: "Danh sách tài khoản"
       welcome: "Click link bên dưới để kích hoạt tài khoản:"
+    mailforgot: "Kiểm tra email!"
+    mailforgot_wrong: "Không tồn tại email!"
+    accnotactived: "Tài khoản chưa được kích hoạt. Kiểm tra mail!"
+    pleasecheckactive: "Kiểm tra mail để kích hoạt!"
+    activated: "Kích hoạt thành công!"
+    activatedfail: "Đường dẫn có vấn đề!"
     accountactivation: "Kích hoạt tài khoản"
     createsuccess: "Chào mừng đến với PAT.."
     updatesuccess: "Chỉnh sửa thành công!"
     pleaselogin: "Cần đăng nhập trước"
+    pleaselogout: "Cần thoát trước!"
     deleted: "Xóa thành công "
     delete: "Xóa"
     delete_2: "Chắc chắn xóa?"
@@ -88,6 +100,7 @@ vi:
       login: "Đăng nhập"
       email: "Email"
       password: "Mật khẩu"
+      fgpassword: "Quên mật khẩu?"
       signup: "Đăng ký ngay"
       remember: "Lưu tài khoản?"
       newuser: "Chưa có tài khoản?"
@@ -96,3 +109,8 @@ vi:
       activation: "Kích hoạt tài khoản"
       welcome: "Click link bên dưới để kích hoạt tài khoản:"
       hi: "Xin chào"
+    password_reset:
+      head: "Đặt lại mật khẩu!"
+      p1: "Click link bên dưới để đặt lại mật khẩu:"
+      p2: "Đặt lại mật khẩu "
+      p3: "Link sẽ tự động xóa sau 2 giờ."
