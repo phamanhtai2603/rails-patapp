@@ -75,7 +75,11 @@ en:
       change: "Change"
     index:
       index: "All users"
-    welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+    pleasecheckactive: "Please check your email to activate your account."
+    accnotactived: "Account not activated. Check your email for the activation link."
+    activated: "Account activated!"
+    activatedfail: "Invalid activation link"
     accountactivation: "Account activation"
     createsuccess: "Welcome to PAT.."
     updatesuccess: "Updated profile successful!"

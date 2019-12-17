@@ -76,6 +76,10 @@ vi:
     index:
       index: "Danh sách tài khoản"
       welcome: "Click link bên dưới để kích hoạt tài khoản:"
+    accnotactived: "Tài khoản chưa được kích hoạt. Kiểm tra mail!"
+    pleasecheckactive: "Kiểm tra mail để kích hoạt!"
+    activated: "Kích hoạt thành công!"
+    activatedfail: "Đường dẫn có vấn đề!"
     accountactivation: "Kích hoạt tài khoản"
     createsuccess: "Chào mừng đến với PAT.."
     updatesuccess: "Chỉnh sửa thành công!"
