@@ -10,3 +10,5 @@ users:
     minimum: 6
 mail_from: "from@example.com"
 regex_valid_email: !ruby/regexp '/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i'
+helper:
+  size: 80
