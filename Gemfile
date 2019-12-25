@@ -21,6 +21,8 @@ gem "uglifier", ">= 1.3.0"
 gem "rails-controller-testing"
 gem "faker", "1.7.3"
 gem "will_paginate", "3.1.7"
+gem 'carrierwave', '1.2.2'
+gem 'mini_magick',  '4.7.0'
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
@@ -47,4 +49,5 @@ end
 group :production do
   gem "pg", "~> 0.18"
   gem "rails_12factor", "0.0.2"
+  gem 'fog', '1.42'
 end

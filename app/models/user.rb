@@ -7,6 +7,7 @@ class User < ApplicationRecord
   before_save { self.email = email.downcase }
   validates :name,  presence: true, length: { maximum: 50 }
   validates :email, presence: true, length: { maximum: Settings.maxlength }, format: { with: VALID_EMAIL_REGEX }, uniqueness: { case_sensitive: false }
+  has_many :microposts, dependent: :destroy
   has_secure_password
   validates :password, presence: true, length: { minimum: 6 }, allow_nil: true
 
@@ -57,6 +58,10 @@ class User < ApplicationRecord
 
   def password_reset_expired?
     reset_sent_at < 2.hours.ago
+  end
+
+  def feed
+    microposts
   end
 
   private
